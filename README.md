@@ -1,7 +1,7 @@
 ![](https://github.com/halfrost/halfrost/blob/master/icons/header_.png)
 
 #### Hi there!
-### This is Navid Mahbub. I'm a Assistant Software Engineer at Dynamic Solution Innovators.
+### This is Navid Mahbub. I'm a Assistant Software Engineer.
 <!--
 **NavidMahbub/NavidMahbub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
